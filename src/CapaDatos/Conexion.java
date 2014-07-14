@@ -14,7 +14,7 @@ import java.sql.SQLException;
 import java.util.HashSet;
 import java.util.Set;
 /**
- * @author Darwin
+ * @author Melissa
  */
 public class Conexion {
     Connection ConexionDatos= null;

@@ -8,7 +8,7 @@ package Clases;
 
 /**
  *
- * @author Darwin
+ * @author Melissa
  */
 public class Cliente 
 {    
